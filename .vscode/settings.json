@@ -1,0 +1,4 @@
+{
+    "robloxLsp.workspace.maxPreload": 8000,
+    "stylua.targetReleaseVersion": "latest"
+}
